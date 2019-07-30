@@ -1,3 +1,3 @@
-## [v0.0.3](https://github.com/shanuan/blcd2/edit/master/README.md)
-## [cd1](cd1) [cd2](cd2) [cd3](cd3) [cd4](cd4) [cd5](cd5) [cd6](cd6)
+## [v0.0.4](https://github.com/shanuan/blcd2/edit/master/README.md)
+## [cd1](cd01) [cd2](cd02) [cd3](cd03) [cd4](cd04) [cd5](cd05) [cd6](cd06)
 ## [blog](https://shanuan.github.io/blog)
